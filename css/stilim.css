@@ -1,0 +1,191 @@
+@charset "utf-8";
+body {
+	background-image: url(../resimler/brickwall.png);
+	margin: 0px;
+	padding: 0px;
+}
+#dis_alan {
+	height: auto;
+	width: 870px;
+	margin-top: 10px;
+	margin-right: auto;
+	margin-bottom: 10px;
+	margin-left: auto;
+	font-family: Tahoma, Geneva, sans-serif;
+}
+
+#banner {
+	padding: 0px;
+	height: 150px;
+	width: 870px;
+	margin-bottom: 1px;
+}
+
+#navigasyon {
+	height: 35px;
+	width: 870px;
+	margin-bottom: 5px;
+}
+
+#navigasyon ul {
+	margin: 0px;
+	padding: 0px;
+	list-style-type: none;
+}
+#navigasyon ul li {
+	float: left;
+}
+#navigasyon ul li a {
+	font-size: 12px;
+	line-height: 25px;
+	font-weight: bold;
+	color: #E5EDFA;
+	text-decoration: none;
+	background-color: #3572A1;
+	text-align: center;
+	display: block;
+	width: 108px;
+	margin-top: 5px;
+	border-bottom-width: 5px;
+	border-bottom-style: solid;
+	border-bottom-color: #BB4646;
+}
+#navigasyon ul li a:hover {
+	background-color: #bb4646;
+	border-top-width: 5px;
+	border-top-style: solid;
+	border-top-color: #bb4646;
+	margin-top: 0px;
+}
+#icerik {
+	background-color: #FFF;
+	height: auto;
+	width: 870px;
+	padding-top: 5px;
+	float: left;
+}
+#icerik_sol {
+	float: left;
+	height: auto;
+	width: 190px;	
+}
+#icerik_orta {
+	font-size: 12px;
+	line-height: 14px;
+	/* [disabled]background-color: #FFFFCC; */
+	text-align: justify;
+	padding: 5px;
+	float: left;
+	height: auto;
+	width: 480px;
+	
+}
+#icerik_sag {
+	float: left;
+	height: auto;
+	width: 190px;
+}
+
+#footer {
+	background-color: #3572a1;
+	float: left;
+	height: 17px;
+	width: 870px;
+	margin-bottom: 3px;
+	padding-top: 3px;
+}
+.yan_menu {
+	font-size: 11px;
+	background-color: #f5f5f5;
+	height: auto;
+	width: 179px;
+	margin-bottom: 10px;
+	margin-left: 5px;
+	border: 1px solid #666666;
+}
+
+.yan_menu_baslik {
+	font-size: 14px;
+	line-height: 25px;
+	color: #ffffff;
+	background-image: url(../resimler/buton_zemin.png);
+	text-align: center;
+	margin: 0px;
+}
+.yan_menu ul {
+	margin: 0px;
+	padding: 0px;
+	list-style-type: none;
+}
+.yan_menu ul li {
+	width: 175px;
+	border-bottom: 1px solid #e8e7d0;
+}
+.yan_menu ul li a {	
+	line-height: 18px;
+	font-weight: bold;
+	color: #333333;
+	text-decoration: none;
+	display: block;
+	margin: 0px;
+	padding-top: 5px;
+	padding-bottom: 3px;
+	padding-left: 10px;
+}
+.yan_menu ul li a:hover {
+	color: #ffffff;
+	background-color: #bb4646;
+	border-left-width: 7px;
+	border-left-style: solid;
+	border-left-color: #3572a1;
+}
+#form1 {
+	font-size: 11px;
+	font-weight: bold;
+	padding: 10px;
+	color: #333;
+}
+
+.icerik_baslik {
+	font-size: 15px;
+	line-height: 20px;
+	font-weight: bold;
+	color: #3572a1;
+	text-align: center;
+}
+
+.icerik_res_sol {
+	float: left;
+	margin-right: 5px;
+}
+
+.icerik_res_orta {
+	border: 1px solid #35A4C1;
+	margin: auto;
+	padding: 0px;
+	width: 470px;
+}
+
+#alt_resim {
+		width:392px;
+		margin-top: 60px;
+		margin-left: auto;
+		margin-right: auto;
+}           
+
+ .galeri {
+width:141px;	
+height:141px;	
+float:left;	
+margin-top:10px;	
+margin-bottom:10px;
+margin-left:12px;	
+border:solid thin #3572A1;}
+
+.galeri a img {
+	border: 1px solid #BBB;
+	margin:0px;
+	padding:0px;
+	vertical-align: top;
+}
+
