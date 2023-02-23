@@ -1,0 +1,76 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-9" />
+<meta name="viewport" content="width=device-width" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Online Tasarım</title>
+<!-- TemplateEndEditable -->
+<link href="../css/stil.css" rel="stylesheet" type="text/css" />
+<!-- Media Query 1 -->
+<link href="../css/stil.css" rel="stylesheet" type="text/css" media="only screen and (min-width:1000px)" />
+<!-- Media Query 2 -->
+<link href="../css/stilt.css" rel="stylesheet" type="text/css" media="only screen and (min-width:768px) and (max-width:999px)" />
+<!-- Media Query 3 -->
+<link href="../css/stilc.css" rel="stylesheet" type="text/css" media="only screen and (min-width:300px) and (max-width:767px)" />
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+
+<div id="dis">
+	<div id="navk">
+  		<img src="../img/menu.png"/>
+  		<ul>
+			<li><a href="#" id="e1">Tüm Hizmetler</a></li>
+			<li><a href="#">Hakkımızda</a></li>
+			<li><a href="#">Referanslarımız</a></li>
+			<li><a href="#">İletişim</a></li>
+		</ul>
+    </div>
+  <div id="header"> 	
+  <div id="logo"><img src="../img/logo.png"/></div> 
+  <div id="nav">		
+        <ul>
+			<li><a href="#" id="m1">Tüm Hizmetler</a></li>
+			<li><a href="#">Hakkımızda</a></li>
+			<li><a href="#">Referanslarımız</a></li>
+			<li><a href="#">İletişim</a></li>
+		</ul>
+  </div>
+  <div id="sosyal"> <a href="#"><img src="../img/face1.png" width="29" height="30" /></a> 
+    <a href="#"><img src="../img/insta.png" width="29" height="30" /></a>
+    <a href="#"><img src="../img/twiter.png" width="29" height="30" /></a>
+    <a href="#"><img src="../img/mail.png" width="29" height="30" /></a>  
+  </div>
+  </div>
+  <div id="section"><!-- TemplateBeginEditable name="EditRegion1" -->Content for  id "section" Goes Here<!-- TemplateEndEditable --></div>
+  <div id="aside"> 
+  		<ul>
+			<li><a href="#" class="h">Grafik Tasarımı</a></li>
+			<li><a href="#">Kurumsal Kimlik</a></li>
+			<li><a href="#">Basılı İşler</a></li>
+			<li><a href="#">Ambalaj Tasarımı</a></li>
+            <li><a href="#">Dijital Tasarımı</a></li>
+            <li><a href="#" class="h">Dijital Reklam</a></li>
+            <li><a href="#">Google Reklamları</a></li>
+            <li><a href="#">Facebook Reklamları</a></li>
+            <li><a href="#">Instagram Reklamları</a></li>
+            <li><a href="#">Youtube Reklamları</a></li>
+            <li><a href="#" class="h">Web Tasarımı</a></li>
+            <li><a href="#">E-ticaret Sitesi</a></li>
+            <li><a href="#">Kişisel Web Sitesi</a></li>
+            <li><a href="#">Kurumsal Web Sitesi</a></li>
+            <li><a href="#" class="h">Ürün Çekimi</a></li>
+            <li><a href="#">E-ticaret Ürün Çekimleri</a></li>
+            <li><a href="#">Sosyal Medya Çekimleri</a></li>
+            <li><a href="#" class="h">Sosyal Medya Yönetimi</a></li>
+            <li><a href="#">Post Tasarımları</a></li>
+            <li><a href="#">İçerik Yönetimi</a></li>
+            <li><a href="#">Reklam Yönetimi</a></li>
+		</ul>
+  </div>
+</div>
+</body>
+</html>
